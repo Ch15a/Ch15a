@@ -1,6 +1,6 @@
 <h1>Yiyi Chen</h1>
 
-Hi, I am currently a 2nd year BSc student in Information & Communication Technology at KTH Royal Institute of Technology. Here are the projects I have worked on so far.
+Hi, I am currently a 3rd year BSc student in Information & Communication Technology at KTH Royal Institute of Technology. Here are the projects I have worked on so far.
 
 <h2>Computer Science Projects:</h2>
 
