@@ -4,7 +4,7 @@ Hi, I am a recent graduate with a BSc in Information & Communication Technology 
 
 <h2>Projects:</h2>
 
-- [Dice Hunter](https://biffenb.itch.io/the-dice-hunter) <i>(3D Art & Modelling)</i> 
+- [Dice Hunter](https://biffenb.itch.io/the-dice-hunter) 
 <br><img src="https://img.itch.zone/aW1hZ2UvMTYyMzM5MS85NTEwOTM5LnBuZw==/794x1000/tyZ0YT.png" width="400" height="250" />
 - [Learn Hangul](https://github.com/KavanGGandhi/learn-hangul) <i>(React JavaScript)</i>
 
